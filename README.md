@@ -6,13 +6,15 @@
 
 
 <div align="center">
-  
+<img align="center" alt="Coding" width="400" src="https://miro.medium.com/max/680/1*IRGHmiGsa16stedQvIaZfw.gif"><br><br>
+
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivansh-mittal-27a572195/)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=flat&logo=discord&logoColor=white)](https://discord.com/channels/@me)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:shivanshmittal2@gmail.com)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/Shiv1248)
-</div>
 
+
+</div>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ## About Me ✍
@@ -31,6 +33,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ## Languages and Tools:
 <img align='left' src='https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif' width="350" height= "300">
 
+<div align="center">
+  
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)
@@ -51,7 +55,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
-
+</div>
 
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shiv1248&langs_count=10"> </p>
